@@ -9,6 +9,4 @@ Heyo y'all
 <<<<<<< HEAD
 Hyellloooo Im Jerry 
 dfadsf
-=======
-Jerry's push from vscode. 2nd edit 
->>>>>>> a22b6c2e3cef2e830b0912d7f52976474622303d
+======
