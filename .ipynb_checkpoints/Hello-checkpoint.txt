@@ -1,6 +1,7 @@
 
 
 Hello Team
+<<<<<<< HEAD
 Hi!
 hii
 
@@ -9,3 +10,10 @@ Heyo y'all
 Hello it is Annie
 
 Hi
+=======
+
+Heyo y'all
+
+Hyellloooo Im Jerry 
+dfadsf
+>>>>>>> f30b2b8d225b450044ba1a3bbc9a29c793907885
